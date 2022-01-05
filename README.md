@@ -1,4 +1,5 @@
-#_ Graduation-Admission-Analysis_-
+#_ Graduation-Admission-Analysis_
+
 **Abstract** :
 
 The main objective of this project is to visualise and determine the significance of each parameter and predict the admit chances of a candidate based on certain parameters.
