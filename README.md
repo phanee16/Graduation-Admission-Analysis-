@@ -15,11 +15,18 @@ Linear Regression model using 5-fold cross-validation is built to interpret the 
 **Data**:
 
 •	GRE Scores ( out of 340 )
+
 •	TOEFL Scores ( out of 120 )
+
 •	University Rating ( out of 5 )
+
 •	Statement of Purpose and ( out of 5 )
+
 •	Letter of Recommendation Strength 
+
 •	Undergraduate GPA ( out of 10 )
+
 •	Research Experience ( either 0 or 1 )
+
 •	Chance of Admit (ranging from 0 to 1)
 
