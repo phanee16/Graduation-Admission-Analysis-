@@ -1,0 +1,2 @@
+# Graduation-Admission-Analysis-
+Currently students are facing difficulties in applying for the right universities that suits their profile with less chances of rejection. As every university have their set of parameters to accept student application, it becomes difficult for a student to understand the probability of acceptance.The main objective of this project is to visualise and determine the significance of each parameter and predict the admit chances of a candidate based on certain parameters.
